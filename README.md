@@ -13,7 +13,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 | StyleID | Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer | CVPR 2024 Highlight | [StyleID](https://jiwoogit.github.io/StyleID_site/) |![GitHub stars](https://img.shields.io/github/stars/jiwoogit/StyleID) | Mar 2024 | |
 | DEADiff | DEADiff: Diffusion-based Efficient and Accurate Adversarial Defense | CVPR 2024 | [DEADiff](https://github.com/bytedance/DEADiff) |![GitHub stars](https://img.shields.io/github/stars/bytedance/DEADiff) | Mar 2024 |
 | Swapping Self-Attention | Visual Style Prompting with Swapping Self-Attention | arXiv | [Swapping Self-Attention](https://github.com/naver-ai/Visual-Style-Prompting) |![GitHub stars](https://img.shields.io/github/stars/naver-ai/Visual-Style-Prompting) | Feb 2024 | |
-| StyleAligned | Style Aligned Image Generation via Shared Attention | CVPR 2024 Oral | [StyleAligned](https://style-aligned-gen.github.io/) |![GitHub stars](https://img.shields.io/github/stars/google/style-aligned/) | Jan 2024 | |
+| StyleAligned | Style Aligned Image Generation via Shared Attention | CVPR 2024 Oral | [StyleAligned](https://style-aligned-gen.github.io/) |![GitHub stars](https://img.shields.io/github/stars/google/style-aligned) | Jan 2024 | |
 
 
 
@@ -26,3 +26,4 @@ A curated list of resources for image stylization, categorized into Training-fre
 | Style-Adapter | StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation | NeurIPS 2023 | [Style-Adapter] |![GitHub stars](https://img.shields.io/github/stars/style-adapter/Style-Adapter) | Sep 2023 | |
 | IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) |![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023| |
 | StyleDrop | StyleDrop: Text-To-Image Generation in Any Style | NeurIPS 2023| [StyleDrop](https://styledrop.github.io/) |![GitHub stars](https://img.shields.io/github/stars/styledrop/StyleDrop) | Jun 2023 | |
+
