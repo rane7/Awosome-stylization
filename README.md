@@ -4,23 +4,23 @@ A curated list of resources for image stylization, categorized into Training-fre
 
 ## Training-free stylization
 
-| Project Name | Paper | Source | Code/Project Link | Notes |
-| ------------ | ----- | ------ | ----------------- | ----- |
-| RB-Modulation | RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control | arXiv | [RB-Modulation](https://rb-modulation.github.io/) ![GitHub stars](https://img.shields.io/github/stars/rb-modulation/RB-Modulation) | |
-| StyleID | Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer | CVPR 2024 Highlight | [StyleID](https://jiwoogit.github.io/StyleID_site/) ![GitHub stars](https://img.shields.io/github/stars/jiwoogit/StyleID_site) | |
-| StyleAlign | StyleAlign: Aligning Pre-trained Language Models for Cross-Task Generalization | arXiv | [StyleAlign](https://github.com/google-research/StyleAlign) ![GitHub stars](https://img.shields.io/github/stars/google-research/StyleAlign) | |
-| Swapping Self-Attention | Swapping Self-Attention for Improved Generalization | arXiv | [Swapping Self-Attention](https://github.com/facebookresearch/swapping-self-attention) ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/swapping-self-attention) | |
-| DEADiff | DEADiff: Diffusion-based Efficient and Accurate Adversarial Defense | CVPR 2024 | [DEADiff](https://github.com/deadiff/DEADiff) ![GitHub stars](https://img.shields.io/github/stars/deadiff/DEADiff) | |
-| InstantStyle | InstantStyle: Real-time Neural Style Transfer | arXiv | [InstantStyle](https://github.com/instantstyle/InstantStyle) ![GitHub stars](https://img.shields.io/github/stars/instantstyle/InstantStyle) | |
-| StyleMamba | StyleMamba: Fast and Flexible Style Transfer with Multi-Scale Alignment | arXiv | [StyleMamba](https://github.com/stylemamba/StyleMamba) ![GitHub stars](https://img.shields.io/github/stars/stylemamba/StyleMamba) | |
+| Project Name | Paper | Source | Code/Project Link | Date | Notes |
+| ------------ | ----- | ------ | ----------------- |----- | ----- |
+| RB-Modulation | RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control | arXiv | [RB-Modulation](https://rb-modulation.github.io/) ![GitHub stars](https://img.shields.io/github/stars/LituRout/RB-Modulation) | May 2024 | |
+| StyleMamba | StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer | arXiv | [StyleMamba](https://github.com/) ![GitHub stars](https://img.shields.io/github/stars/stylemamba/StyleMamba) | May 2024 | |
+| FreeTuner | FreeTuner: Any Subject in Any Style with Training-free Diffusion | arXiv | [FreeTuner](https://github.com) ![GitHub stars](https://img.shields.io/github/stars/freetuner/FreeTuner) | May 2024| |
+| InstantStyle | InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation | arXiv | [InstantStyle](https://github.com/instantstyle/InstantStyle) ![GitHub stars](https://img.shields.io/github/stars/instantstyle/InstantStyle) | Apr 2024 | |
+| StyleID | Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer | CVPR 2024 Highlight | [StyleID](https://jiwoogit.github.io/StyleID_site/) ![GitHub stars](https://img.shields.io/github/stars/jiwoogit/StyleID) | Mar 2024 | |
+| Swapping Self-Attention | Visual Style Prompting with Swapping Self-Attention | arXiv | [Swapping Self-Attention](https://github.com/naver-ai/Visual-Style-Prompting) ![GitHub stars](https://img.shields.io/github/stars/naver-ai/Visual-Style-Prompting) | Feb 2024 | |
+| StyleAligned | Style Aligned Image Generation via Shared Attention | CVPR 2024 Oral | [StyleAligned](https://style-aligned-gen.github.io/) ![GitHub stars](https://img.shields.io/github/stars/google/style-aligned/) | Jan 2024 | |
+| DEADiff | DEADiff: Diffusion-based Efficient and Accurate Adversarial Defense | CVPR 2024 | [DEADiff](https://github.com/bytedance/DEADiff) ![GitHub stars](https://img.shields.io/github/stars/bytedance/DEADiff) | |
+
 
 ## Finetuning stylization
 
-| Project Name | Paper | Source | Code/Project Link | Notes |
-| ------------ | ----- | ------ | ----------------- | ----- |
-| IP-Adapter | IP-Adapter: Learning Fine-Grained Image-to-Image Translation with Localized Adapters | arXiv | [IP-Adapter](https://github.com/ip-adapter/IP-Adapter) ![GitHub stars](https://img.shields.io/github/stars/ip-adapter/IP-Adapter) | |
-| Style-Adapter | Style-Adapter: Fine-tuning Large Pre-trained Models for Style Transfer | arXiv | [Style-Adapter](https://github.com/style-adapter/Style-Adapter) ![GitHub stars](https://img.shields.io/github/stars/style-adapter/Style-Adapter) | |
-| FreeTuner | FreeTuner: Efficient Tuning of Pre-trained Models for Custom Style Transfer | arXiv | [FreeTuner](https://github.com/freetuner/FreeTuner) ![GitHub stars](https://img.shields.io/github/stars/freetuner/FreeTuner) | |
-| StyleDrop | StyleDrop: Dropout-based Style Transfer for Robust Stylization | arXiv | [StyleDrop](https://github.com/styledrop/StyleDrop) ![GitHub stars](https://img.shields.io/github/stars/styledrop/StyleDrop) | |
-| IP-Adapte | IP-Adapte: Adapting Pre-trained Models for High-Resolution Image Synthesis | arXiv | [IP-Adapte](https://github.com/ip-adapte/IP-Adapte) ![GitHub stars](https://img.shields.io/github/stars/ip-adapte/IP-Adapte) | |
-| Styleadapter | Styleadapter: Lightweight Adapters for Efficient Style Transfer | arXiv | [Styleadapter](https://github.com/styleadapter/Styleadapter) ![GitHub stars](https://img.shields.io/github/stars/styleadapter/Styleadapter) | |
+| Project Name | Paper | Source | Code/Project Link | Date | Notes |
+| ------------ | ----- | ------ | ----------------- |----- | ----- |
+| ZipLoRA | ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs | arXiv | [ZipLoRA](https://ziplora.github.io/) ![GitHub stars](https://img.shields.io/github/stars/mkshing/ziplora-pytorch) | Nov 2023 | |
+| Style-Adapter | StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation | NeurIPS 2023 | [Style-Adapter] ![GitHub stars](https://img.shields.io/github/stars/style-adapter/Style-Adapter) | Sep 2023 | |
+| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023| |
+| StyleDrop | StyleDrop: Text-To-Image Generation in Any Style | arXiv | [StyleDrop](https://styledrop.github.io/) ![GitHub stars](https://img.shields.io/github/stars/styledrop/StyleDrop) | Jun 2023 | |
