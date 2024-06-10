@@ -7,7 +7,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 | Project Name | Paper | Source | Code/Project Link | Notes |
 | ------------ | ----- | ------ | ----------------- | ----- |
 | RB-Modulation | RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control | arXiv | [RB-Modulation](https://rb-modulation.github.io/) ![GitHub stars](https://img.shields.io/github/stars/rb-modulation/RB-Modulation)| |
-| StyleID | Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer | CVPR 2024 Highlight | [StyleID](https://jiwoogit.github.io/StyleID_site/) ![GitHub stars](https://img.shields.io/github/stars/jiwoogit/StyleID_site)| |
+| StyleID | Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer | CVPR 2024 Highlight | [StyleID](https://jiwoogit.github.io/StyleID_site/) ![GitHub stars](https://img.shields.io/https://github.com/jiwoogit/StyleID)| |
 | StyleAlign | StyleAlign: Aligning Pre-trained Language Models for Cross-Task Generalization | arXiv | [StyleAlign](https://github.com/google-research/StyleAlign) | |
 | Swapping Self-Attention | Swapping Self-Attention for Improved Generalization | arXiv | [Swapping Self-Attention](https://github.com/facebookresearch/swapping-self-attention) | |
 | DEADiff | DEADiff: Diffusion-based Efficient and Accurate Adversarial Defense | CVPR 2024 | [DEADiff](https://github.com/deadiff/DEADiff) | |
