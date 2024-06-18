@@ -14,6 +14,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 | DiffEditor | DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing | CVPR 2024 | [DiffEditor](https://github.com/MC-E/DragonDiffusion) |![GitHub stars](https://img.shields.io/github/stars/MC-E/DragonDiffusion) | Feb 2024 |  SD (DDIM) |
 | Swapping Self-Attention | Visual Style Prompting with Swapping Self-Attention | arXiv | [Swapping Self-Attention](https://github.com/naver-ai/Visual-Style-Prompting) |![GitHub stars](https://img.shields.io/github/stars/naver-ai/Visual-Style-Prompting) | Feb 2024 | SDXL |
 | StyleAligned | Style Aligned Image Generation via Shared Attention | CVPR 2024 Oral | [StyleAligned](https://style-aligned-gen.github.io/) |![GitHub stars](https://img.shields.io/github/stars/google/style-aligned) | Jan 2024 | SDXL |
+| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [Ip-Adapter](https://github.com/tencent-ailab/IP-Adapter) | ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023 | SDXL |
 
 
 
