@@ -22,10 +22,11 @@ A curated list of resources for image stylization, categorized into Training-fre
 
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Notes |
 | ------------ | ----- | ------ | ----------------- |------|----- | ----- |
+| Magic Insert | Magic Insert: Style-Aware Drag-and-Drop | arXiv | [Magic Insert](https://magicinsert.github.io/) | Jul 2024 | LoRA |
 | StyleMamba | StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer | arXiv | [StyleMamba](https://github.com/) |![GitHub stars](https://img.shields.io/github/stars/stylemamba/StyleMamba) | May 2024 | |
 | CSD | Measuring Style Similarity in Diffusion Models | arXiv | [CSD](https://github.com/learn2phoenix/CSD) | ![GitHub stars](https://img.shields.io/github/stars/learn2phoenix/CSD) | Apr 2024 | |
 | DEADiff | DEADiff: Diffusion-based Efficient and Accurate Adversarial Defense | CVPR 2024 | [DEADiff](https://github.com/bytedance/DEADiff) |![GitHub stars](https://img.shields.io/github/stars/bytedance/DEADiff) | Mar 2024 |
-| B-Lora | Implicit Style-Content Separation using B-LoRA | arXiv | [B-Lora](https://github.com/yardenfren1996/B-LoRA) | ![GitHub stars](https://img.shields.io/github/stars/yardenfren1996/B-LoRA) | Mar 2024 | |
+| B-Lora | Implicit Style-Content Separation using B-LoRA | arXiv | [B-Lora](https://github.com/yardenfren1996/B-LoRA) | ![GitHub stars](https://img.shields.io/github/stars/yardenfren1996/B-LoRA) | Mar 2024 | LoRA |
 | ZipLoRA | ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs | arXiv | [ZipLoRA](https://ziplora.github.io/) |![GitHub stars](https://img.shields.io/github/stars/mkshing/ziplora-pytorch) | Nov 2023 | |
 | Style-Adapter | StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation | NeurIPS 2023 | [Style-Adapter] |![GitHub stars](https://img.shields.io/github/stars/style-adapter/Style-Adapter) | Sep 2023 | |
 | IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) |![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023| |
