@@ -22,7 +22,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Notes |
 | ------------ | ----- | ------ | ----------------- |------|----- | ----- |
-| Magic Insert | Magic Insert: Style-Aware Drag-and-Drop | arXiv | [Magic Insert](https://magicinsert.github.io/) | Jul 2024 | LoRA |
+| Magic Insert | Magic Insert: Style-Aware Drag-and-Drop | arXiv | [Magic Insert](https://magicinsert.github.io/) | ![Github_stars](https://github.com/natanielruiz) |Jul 2024 | LoRA |
 | StyleMamba | StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer | arXiv | [StyleMamba](https://github.com/) |![GitHub stars](https://img.shields.io/github/stars/stylemamba/StyleMamba) | May 2024 | |
 | CSD | Measuring Style Similarity in Diffusion Models | arXiv | [CSD](https://github.com/learn2phoenix/CSD) | ![GitHub stars](https://img.shields.io/github/stars/learn2phoenix/CSD) | Apr 2024 | |
 | DEADiff | DEADiff: Diffusion-based Efficient and Accurate Adversarial Defense | CVPR 2024 | [DEADiff](https://github.com/bytedance/DEADiff) |![GitHub stars](https://img.shields.io/github/stars/bytedance/DEADiff) | Mar 2024 |
