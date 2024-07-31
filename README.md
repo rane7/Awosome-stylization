@@ -7,7 +7,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Based framework |
 | ------------ | ----- | ------ | ----------------- |------|----- | ----- |
 | InstantStyle-Plus | InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation | arXiv | [InstantStyle-Plus](https://github.com/instantX-research/InstantStyle-Plus) |![GitHub stars](https://img.shields.io/github/stars/instantX-research/InstantStyle-Plus) | June 2024 |  |
-| Ctrl-X | Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance | arXiv | [Ctrl-X]([https://rb-modulation.github.io/](https://github.com/genforce/ctrl-x)) |![GitHub stars](https://img.shields.io/github/stars/genforce/ctrl-x) | June 2024 |  |
+| Ctrl-X | Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance | arXiv | [Ctrl-X](https://github.com/genforce/ctrl-x) |![GitHub stars](https://img.shields.io/github/stars/genforce/ctrl-x) | June 2024 |  |
 | RB-Modulation | RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control | arXiv | [RB-Modulation](https://rb-modulation.github.io/) |![GitHub stars](https://img.shields.io/github/stars/LituRout/RB-Modulation) | May 2024 | StableCascade |
 | FreeTuner | FreeTuner: Any Subject in Any Style with Training-free Diffusion | arXiv | [FreeTuner](https://github.com) |![GitHub stars](https://img.shields.io/github/stars/freetuner/FreeTuner) | May 2024| |
 | InstantStyle | InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation | arXiv | [InstantStyle](https://github.com/instantstyle/InstantStyle) |![GitHub stars](https://img.shields.io/github/stars/instantstyle/InstantStyle) | Apr 2024 | SDXL |
@@ -16,7 +16,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 | DiffEditor | DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing | CVPR 2024 | [DiffEditor](https://github.com/MC-E/DragonDiffusion) |![GitHub stars](https://img.shields.io/github/stars/MC-E/DragonDiffusion) | Feb 2024 |  SD (DDIM) |
 | Swapping Self-Attention | Visual Style Prompting with Swapping Self-Attention | arXiv | [Swapping Self-Attention](https://github.com/naver-ai/Visual-Style-Prompting) |![GitHub stars](https://img.shields.io/github/stars/naver-ai/Visual-Style-Prompting) | Feb 2024 | SDXL |
 | StyleAligned | Style Aligned Image Generation via Shared Attention | CVPR 2024 Oral | [StyleAligned](https://style-aligned-gen.github.io/) |![GitHub stars](https://img.shields.io/github/stars/google/style-aligned) | Jan 2024 | SDXL |
-| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [Ip-Adapter](https://github.com/tencent-ailab/IP-Adapter) | ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023 | SDXL |
+|
 
 
 
@@ -31,7 +31,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 | B-Lora | Implicit Style-Content Separation using B-LoRA | arXiv | [B-Lora](https://github.com/yardenfren1996/B-LoRA) | ![GitHub stars](https://img.shields.io/github/stars/yardenfren1996/B-LoRA) | Mar 2024 | LoRA |
 | ZipLoRA | ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs | arXiv | [ZipLoRA](https://ziplora.github.io/) |![GitHub stars](https://img.shields.io/github/stars/mkshing/ziplora-pytorch) | Nov 2023 | |
 | Style-Adapter | StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation | NeurIPS 2023 | [Style-Adapter] |![GitHub stars](https://img.shields.io/github/stars/style-adapter/Style-Adapter) | Sep 2023 | |
-| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) |![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023| |
+| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [Ip-Adapter](https://github.com/tencent-ailab/IP-Adapter) | ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug 2023 | SDXL 
 | DragonDiffusion | DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models | ICLR 2024 (Spotlight)| [DragonDiffusio](https://github.com/MC-E/DragonDiffusion) |![GitHub stars](https://img.shields.io/github/stars/MC-E/DragonDiffusion) | Jul 2023 | |
 | P+ |P+: Extended Textual Conditioning in Text-to-Image Generation | arXiv| [P+](https://github.com/mkshing/prompt-plus-pytorch) |![GitHub stars](https://img.shields.io/github/stars/mkshing/prompt-plus-pytorch) | Jul 2023 | |
 | StyleDrop | StyleDrop: Text-To-Image Generation in Any Style | NeurIPS 2023| [StyleDrop](https://styledrop.github.io/) |![GitHub stars](https://img.shields.io/github/stars/styledrop/StyleDrop) | Jun 2023 | |
