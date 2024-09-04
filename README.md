@@ -6,7 +6,7 @@ A curated list of resources for image stylization, categorized into Training-fre
 
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Based framework/Demo |
 | ------------ | ----- | ------ | ----------------- |------|----- | ----- |
-| CSGO | CSGO: Content-Style Composition in Text-to-Image Generation | arXiv | [CSGO](https://arxiv.org/abs/2408.16766) | ![GitHub stars][(https://img.shields.io/github/stars/instantX-research/CSGO)  | Aug 2024 | [Demo](https://huggingface.co/spaces/xingpng/CSGO)
+| CSGO | CSGO: Content-Style Composition in Text-to-Image Generation | arXiv | [CSGO](https://arxiv.org/abs/2408.16766) | ![GitHub stars](https://img.shields.io/github/stars/instantX-research/CSGO) | Aug 2024 | [Demo](https://huggingface.co/spaces/xingpng/CSGO)
 | InstantStyle-Plus | InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation | arXiv | [InstantStyle-Plus](https://github.com/instantX-research/InstantStyle-Plus) |![GitHub stars](https://img.shields.io/github/stars/instantX-research/InstantStyle-Plus) | June 2024 |  |
 | Ctrl-X | Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance | arXiv | [Ctrl-X](https://github.com/genforce/ctrl-x) |![GitHub stars](https://img.shields.io/github/stars/genforce/ctrl-x) | June 2024 |  |
 | RB-Modulation | RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control | arXiv | [RB-Modulation](https://rb-modulation.github.io/) |![GitHub stars](https://img.shields.io/github/stars/LituRout/RB-Modulation) | May 2024 | [Demo](https://huggingface.co/spaces/fffiloni/RB-Modulation) |
