@@ -37,4 +37,6 @@ A curated list of resources for image stylization, categorized into Training-fre
 | P+ | P+: Extended Textual Conditioning in Text-to-Image Generation | arXiv| [P+](https://github.com/mkshing/prompt-plus-pytorch) |![GitHub stars](https://img.shields.io/github/stars/mkshing/prompt-plus-pytorch) | Jul. 2023 | |
 | StyleDrop | StyleDrop: Text-To-Image Generation in Any Style | NeurIPS 2023| [StyleDrop](https://styledrop.github.io/) |![GitHub stars](https://img.shields.io/github/stars/styledrop/StyleDrop) | Jun. 2023 | |
 
+## Stars 
 
+[![Star History Chart](https://api.star-history.com/svg?repos=rane7/Awosome-stylization&type=Date)](https://star-history.com/#rane7/Awosome-stylization&Date)
