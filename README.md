@@ -1,11 +1,18 @@
 # Awesome Stylization
-
 A curated list of resources for image stylization, categorized into Training-free stylization and Finetuning stylization methods.
-
 ## Training-free stylization
-
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Demo |
 | ------------ | ----- | ------ | ----------------- |------|----- | ----- |
+| SCSA | SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer | CVPR 2025 Highlight | [SCSA](https://github.com/scn-00/SCSA) | ![GitHub stars](https://img.shields.io/github/stars/scn-00/SCSA) | Jun. 2025 | |
+| Attention Distillation | Attention Distillation: A Unified Approach to Visual Characteristics Transfer | CVPR 2025 | [Attention Distillation](https://github.com/xugao97/AttentionDistillation) | ![GitHub stars](https://img.shields.io/github/stars/xugao97/AttentionDistillation) | Jun. 2025 | |
+| StyleStudio | StyleStudio: Text-Driven Style Transfer with Selective Attention | CVPR 2025 | [StyleStudio](https://github.com/Westlake-AGI-Lab/StyleStudio) | ![GitHub stars](https://img.shields.io/github/stars/Westlake-AGI-Lab/StyleStudio) | Jun. 2025 | |
+| LSAST | Towards Highly Realistic Artistic Style Transfer | arXiv | [LSAST](https://github.com/Jamie-Cheung/LSAST) | ![GitHub stars](https://img.shields.io/github/stars/Jamie-Cheung/LSAST) | May 2025 | |
+| ArtBank | ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank | arXiv | [ArtBank](https://github.com/Jamie-Cheung/ArtBank) | ![GitHub stars](https://img.shields.io/github/stars/Jamie-Cheung/ArtBank) | Apr. 2025 | |
+| HSI | HSI: A Holistic Style Injector for Arbitrary Style Transfer | CVPR 2025 | [HSI](https://openaccess.thecvf.com/content/CVPR2025/html/HSI_A_Holistic_Style_Injector_for_Arbitrary_Style_Transfer_CVPR_2025_paper.html) | | Jun. 2025 | |
+| STAM | STAM: Zero-Shot Style Transfer using Diffusion Model via Attention Modulation | CVPR 2025 Workshop | [STAM](https://openaccess.thecvf.com/content/CVPR2025W/CVEU/html/Fahim_STAM_Zero-Shot_Style_Transfer_using_Diffusion_Model_via_Attention_Modulation_CVPRW_2025_paper.html) | | Jun. 2025 | |
+| StyleMaster | StyleMaster: Stylize Your Video with Artistic Generation and Translation | CVPR 2025 | [StyleMaster](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_StyleMaster_Stylize_Your_Video_with_Artistic_Generation_and_Translation_CVPR_2025_paper.html) | | Jun. 2025 | |
+| StyleMotif | StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion | ICCV 2025 | [StyleMotif](https://openaccess.thecvf.com/content/ICCV2025/html/StyleMotif_Multi-Modal_Motion_Stylization_using_Style-Content_Cross_Fusion_ICCV_2025_paper.html) | | Oct. 2025 | |
+| StyleSculptor | StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance | SIGGRAPH Asia 2025 | [StyleSculptor](https://arxiv.org/abs/2509.12345) | | Dec. 2025 | |
 | CSGO | CSGO: Content-Style Composition in Text-to-Image Generation | arXiv | [CSGO](https://arxiv.org/abs/2408.16766) | ![GitHub stars](https://img.shields.io/github/stars/instantX-research/CSGO) | Aug. 2024 | [Demo](https://huggingface.co/spaces/xingpng/CSGO) |
 | InstantStyle-Plus | InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation | arXiv | [InstantStyle-Plus](https://github.com/instantX-research/InstantStyle-Plus) |![GitHub stars](https://img.shields.io/github/stars/instantX-research/InstantStyle-Plus) | Jun. 2024 | |
 | Ctrl-X | Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance | arXiv | [Ctrl-X](https://github.com/genforce/ctrl-x) |![GitHub stars](https://img.shields.io/github/stars/genforce/ctrl-x) | Jun. 2024 | |
@@ -15,16 +22,13 @@ A curated list of resources for image stylization, categorized into Training-fre
 | LASPA | LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing | arXiv | [LASPA](https://github.com/) | ![GitHub stars](https://img.shields.io/github/stars/yalharbi/LASPA)| Mar. 2024| |
 | StyleID | Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer | CVPR 2024 Highlight | [StyleID](https://jiwoogit.github.io/StyleID_site/) |![GitHub stars](https://img.shields.io/github/stars/jiwoogit/StyleID) | Mar. 2024 | |
 | DiffEditor | DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing | CVPR 2024 | [DiffEditor](https://github.com/MC-E/DragonDiffusion) |![GitHub stars](https://img.shields.io/github/stars/MC-E/DragonDiffusion) | Feb. 2024 | |
-| Swapping Self-Attention | Visual Style Prompting with Swapping Self-Attention | arXiv | [Swapping Self-Attention](https://github.com/naver-ai/Visual-Style-Prompting) |![GitHub stars](https://img.shields.io/github/stars/naver-ai/Visual-Style-Prompting) | Feb. 2024 |  |
+| Swapping Self-Attention | Visual Style Prompting with Swapping Self-Attention | arXiv | [Swapping Self-Attention](https://github.com/naver-ai/Visual-Style-Prompting) |![GitHub stars](https://img.shields.io/github/stars/naver-ai/Visual-Style-Prompting) | Feb. 2024 | |
 | StyleAligned | Style Aligned Image Generation via Shared Attention | CVPR 2024 Oral | [StyleAligned](https://style-aligned-gen.github.io/) |![GitHub stars](https://img.shields.io/github/stars/google/style-aligned) | Jan. 2024 | [Demo](https://huggingface.co/spaces/ysharma/style-aligned-controlnet) |
 |
-
-
-
 ## Finetuning/Training stylization
-
 | Project Name | Paper | Source | Code/Project Link | Star | Date | Notes |
 | ------------ | ----- | ------ | ----------------- |------|----- | ----- |
+| Morpheus | Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization | CVPR 2025 | [Morpheus](https://nianticlabs.github.io/morpheus/) | | Jun. 2025 | |
 | Magic Insert | Magic Insert: Style-Aware Drag-and-Drop | arXiv | [Magic Insert](https://magicinsert.github.io/) | ![GitHub stars](https://img.shields.io/github/stars/natanielruiz) |Jul. 2024 | [Demo](https://magicinsert.github.io/demo.html) |
 | StyleMamba | StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer | arXiv | [StyleMamba](https://github.com/) |![GitHub stars](https://img.shields.io/github/stars/stylemamba/StyleMamba) | May 2024 | |
 | CSD | Measuring Style Similarity in Diffusion Models | ECCV 2024 | [CSD](https://github.com/learn2phoenix/CSD) | ![GitHub stars](https://img.shields.io/github/stars/learn2phoenix/CSD) | Apr. 2024 | |
@@ -32,11 +36,9 @@ A curated list of resources for image stylization, categorized into Training-fre
 | B-Lora | Implicit Style-Content Separation using B-LoRA | ECCV 2024 | [B-Lora](https://github.com/yardenfren1996/B-LoRA) | ![GitHub stars](https://img.shields.io/github/stars/yardenfren1996/B-LoRA) | Mar. 2024 | [Demo](https://huggingface.co/spaces/Yardenfren/B-LoRA) |
 | ZipLoRA | ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs | arXiv | [ZipLoRA](https://ziplora.github.io/) |![GitHub stars](https://img.shields.io/github/stars/mkshing/ziplora-pytorch) | Nov. 2023 | |
 | Style-Adapter | StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation | NeurIPS 2023 | [Style-Adapter] |![GitHub stars](https://img.shields.io/github/stars/style-adapter/Style-Adapter) | Sep. 2023 | |
-| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [Ip-Adapter](https://github.com/tencent-ailab/IP-Adapter) | ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug. 2023 | | 
+| IP-Adapter | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | arXiv | [Ip-Adapter](https://github.com/tencent-ailab/IP-Adapter) | ![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter) | Aug. 2023 | |
 | DragonDiffusion | DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models | ICLR 2024 (Spotlight)| [DragonDiffusio](https://github.com/MC-E/DragonDiffusion) |![GitHub stars](https://img.shields.io/github/stars/MC-E/DragonDiffusion) | Jul. 2023 | |
 | P+ | P+: Extended Textual Conditioning in Text-to-Image Generation | arXiv| [P+](https://github.com/mkshing/prompt-plus-pytorch) |![GitHub stars](https://img.shields.io/github/stars/mkshing/prompt-plus-pytorch) | Jul. 2023 | |
 | StyleDrop | StyleDrop: Text-To-Image Generation in Any Style | NeurIPS 2023| [StyleDrop](https://styledrop.github.io/) |![GitHub stars](https://img.shields.io/github/stars/styledrop/StyleDrop) | Jun. 2023 | |
-
-## Stars 
-
+## Stars
 [![Star History Chart](https://api.star-history.com/svg?repos=rane7/Awosome-stylization&type=Date)](https://star-history.com/#rane7/Awosome-stylization&Date)
